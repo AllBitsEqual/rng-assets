@@ -7,12 +7,14 @@
   "version": "1.0.0",
   "license": "MIT",
   "main": "index.js",
-  "description": "This repository houses an assortment of commercially usable assets for app and game development. All files come with a readme including their license and allowed usage.",
+  "description": "The react native games: Assets repository (short: rng-assets) includes an assortment of commercially usable assets for app and game development. All files come with a readme including their license and allowed usage.",
   "keywords": [
     "assets",
     "royalty free",
+    "game dev assets",
     "package",
     "allbitsequal",
-    "react native game"
+    "react native games",
+    "game development"
   ]
 }
