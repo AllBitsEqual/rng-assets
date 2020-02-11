@@ -4,6 +4,8 @@
 ---
 The assets inside this folder were made and published by Ilya Denisenko
 
+## Pro Version Available for purchase
+https://www.artstation.com/idenisenko/store/52x1/royal-gui 
 
 ## The Artist
 **ILYA Denisenko**
@@ -20,4 +22,6 @@ https://www.behance.net/idenisenko
 https://www.behance.net/gallery/52762891/Game-UIicons-for-free
 
 ## License
-Licensing information is pending / requested. The files were published by the author for free usage without further details.
+After direct communication with the artist, the files are included in thisp project under the MIT license.
+
+=> https://opensource.org/licenses/MIT

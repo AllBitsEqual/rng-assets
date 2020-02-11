@@ -1,4 +1,18 @@
 {
   "name": "@allbitsequal/rng-assets",
-  "version": "1.0.0"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AllBitsEqual/rng-assets.git"
+  },
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "description": "This repository houses an assortment of commercially usable assets for app and game development. All files come with a readme including their license and allowed usage.",
+  "keywords": [
+    "assets",
+    "royalty free",
+    "package",
+    "allbitsequal",
+    "react native game"
+  ]
 }
