@@ -1,6 +1,8 @@
 # React Native Games: Assets 
 short: rng-assets
 
+![GitHub](https://img.shields.io/badge/React%20Native%20Games-Assets-orange)
+![npm (scoped)](https://img.shields.io/npm/v/@allbitsequal/rng-assets)
 ![GitHub](https://img.shields.io/github/license/AllBitsEqual/rng-assets)
 
 The **react native games: Assets** repository (short: rng-assets) includes an assortment of commercially usable assets for app and game development. All files come with a readme including their license and allowed usage.
